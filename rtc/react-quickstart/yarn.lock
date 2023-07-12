@@ -2403,10 +2403,10 @@ agora-rtc-react@^2.0.0-alpha.0:
   resolved "https://registry.npmjs.org/agora-rtc-react/-/agora-rtc-react-2.0.0-alpha.0.tgz"
   integrity sha512-/60yXxZdXNMU4kgxRCyeCGOyKD/yE89lHEiMGSGmyndjttF+xfpr0vufM8uHRqxSW4cAtUlBe2Sm2/cvbGo2lA==
 
-agora-rtc-sdk-ng@4.18.1:
-  version "4.18.1"
-  resolved "https://registry.npmjs.org/agora-rtc-sdk-ng/-/agora-rtc-sdk-ng-4.18.1.tgz"
-  integrity sha512-OZ4Bu6Y1DspfACwljJGYuBglwsyJpAyILqROUY40GXTnzy5ZUcjAljOqoPoQfrT8D6R7okk+sfTXr4vyHu8GLw==
+agora-rtc-sdk-ng@4.18.2:
+  version "4.18.2"
+  resolved "https://registry.npmmirror.com/agora-rtc-sdk-ng/-/agora-rtc-sdk-ng-4.18.2.tgz#86b0b7fd6763aef776f1d6aaa13c487062ee11f7"
+  integrity sha512-tvyuXHVL15Eo0lK3wwM3rGPKGPeGYuarAwCs5oyveht1HZO9z3w6vra3d/q3eOCYpvQscCW7P0QNfUIAQTs4RQ==
   dependencies:
     agora-rte-extension "^1.2.3"
 
