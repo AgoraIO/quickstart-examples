@@ -11,7 +11,7 @@ import {
 import React, { useState } from "react";
 
 import "./styles.css";
-import logo from "./logo.png";
+import logo from "./agora-logo.svg";
 
 export const Basics = () => {
   const [calling, setCalling] = useState(false);
